@@ -9,7 +9,6 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.up('sm')]: {
       width: `calc(100% - ${drawerWidth}px)`,
       marginLeft: drawerWidth,
-      backgroundColor: '#006666',
     },
   },
   title: {
@@ -17,10 +16,6 @@ export default makeStyles((theme) => ({
     alignItems: 'center',
     display: 'flex',
     textDecoration: 'none',
-    color: 'white'
-  },
-  cart: {
-    color: 'white',
   },
   image: {
     marginRight: '10px',
@@ -62,7 +57,6 @@ export default makeStyles((theme) => ({
   },
   inputInput: {
     padding: theme.spacing(1, 1, 1, 0),
-    // vertical padding + font size from searchIcon
     paddingLeft: `calc(1em + ${theme.spacing(4)}px)`,
     transition: theme.transitions.create('width'),
     width: '100%',

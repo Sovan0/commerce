@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8af8c8dc.js",
+    "static/media/logo_bb.png": "/static/media/logo_bb.47d495ddb9cf6ceb9e71.png",
+    "index.html": "/index.html",
+    "main.8af8c8dc.js.map": "/static/js/main.8af8c8dc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8af8c8dc.js"
+  ]
+}
